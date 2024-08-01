@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+  
+  div {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 1em;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

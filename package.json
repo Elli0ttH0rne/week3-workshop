@@ -1,0 +1,23 @@
+{
+  "name": "week3-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elli0ttH0rne/week3-workshop.git"
+  },
+  "author": "Elliott Horne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elli0ttH0rne/week3-workshop/issues"
+  },
+  "homepage": "https://github.com/Elli0ttH0rne/week3-workshop#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jquery": "^3.7.1"
+  }
+}
